@@ -116,7 +116,7 @@ https://42berlin.de/curriculum-42-berlin-pre-2026/
 ## Current Status
 
 - Piscine: Completed
-- Core Curriculum: **Level 4 of 7 — almost complete**
+- Core Curriculum: **Level 4 of 7 almost complete**
 - Philosophers: Work in progress (last project in Level 4)
 - Continuous improvement ongoing
 

@@ -44,11 +44,17 @@ System programming and algorithmic projects.
 |---------------------|-----------------------------------------------------|-------|
 | libft               | https://github.com/TheForestGiraffe/libft            | Custom C standard library and utilities |
 | ft_printf           | https://github.com/TheForestGiraffe/ft_printf        | printf reimplementation (variadic functions, formatting) |
+| get_next_line       | https://github.com/TheForestGiraffe/get_next_line    | Line-by-line file descriptor input handling |
+| Born2beRoot         | https://github.com/TheForestGiraffe/Born2beRoot      | Linux system administration, security hardening, and automation |
 | push_swap           | https://github.com/TheForestGiraffe/push_swap        | Algorithmic sorting under strict operational constraints |
 | minitalk            | https://github.com/TheForestGiraffe/minitalk         | Inter-process communication via Unix signals (signal/sigaction APIs) |
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
 | Philosophers (WIP)  | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
+
+These projects cover core systems programming skills, including custom libraries, low-level I/O,
+algorithmic problem solving, Unix process management, inter-process communication, graphics,
+and multithreaded synchronization.
 
 
 ---

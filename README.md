@@ -116,7 +116,7 @@ https://42berlin.de/curriculum-42-berlin-pre-2026/
 
 ---
 
-## 📌 Notes
+## Notes
 
 All repositories reflect my personal work and learning progression
 through the 42 curriculum and related self-study.

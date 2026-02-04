@@ -50,7 +50,7 @@ System programming and algorithmic projects.
 | minitalk            | https://github.com/TheForestGiraffe/minitalk         | Inter-process communication via Unix signals (signal/sigaction APIs) |
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
-| Exam Rank 3 Prepartion        | https://github.com/TheForestGiraffe/Exam_3_Prep      | Timed problem solving under exam conditions |
+| Exam Rank 3 Preparation        | https://github.com/TheForestGiraffe/Exam_3_Prep      | Timed problem solving under exam conditions |
 | Philosophers (WIP)  | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O,

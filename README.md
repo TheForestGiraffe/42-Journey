@@ -40,7 +40,7 @@ Core C and Unix fundamentals.
 
 System programming and algorithmic projects.
 
-| Project             | Repository                                          | Focus |
+| Project             | Repository                                          | Description |
 |---------------------|-----------------------------------------------------|-------|
 | libft               | https://github.com/TheForestGiraffe/libft            | Custom C standard library and utilities |
 | ft_printf           | https://github.com/TheForestGiraffe/ft_printf        | printf reimplementation (variadic functions, formatting) |
@@ -50,7 +50,6 @@ System programming and algorithmic projects.
 | minitalk            | https://github.com/TheForestGiraffe/minitalk         | Inter-process communication via Unix signals (signal/sigaction APIs) |
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
-| Exam Rank 3 Preparation        | https://github.com/TheForestGiraffe/Exam_3_Prep      | Timed problem solving under exam conditions |
 | Philosophers (WIP)  | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O,
@@ -62,9 +61,9 @@ and multithreaded synchronization.
 
 ## Exam & Practice
 
-| Area | Repository |
-|------|------------|
-| Exam 3 Preparation | https://github.com/TheForestGiraffe/Exam_3_Prep |
+| Project             | Repository                                          | Description |
+|---------------------|-----------------------------------------------------|-------|
+| Exam Rank 3 Preparation        | https://github.com/TheForestGiraffe/Exam_3_Prep      | Timed problem solving under exam conditions |
 
 ---
 

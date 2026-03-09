@@ -50,7 +50,7 @@ System programming and algorithmic projects.
 | minitalk            | https://github.com/TheForestGiraffe/minitalk         | Inter-process communication via Unix signals (signal/sigaction APIs) |
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
-| Philosophers (WIP)  | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
+| Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O,
 algorithmic problem solving, Unix process management, inter-process communication, graphics,

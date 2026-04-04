@@ -12,8 +12,6 @@ It serves as a central reference for recruiters, collaborators, and reviewers.
 GitHub: https://github.com/TheForestGiraffe  
 Location: Berlin, Germany
 
-Background: Electrical Engineering & Technical Product Management → C/Linux Development
-
 ---
 
 ## Piscine (Foundations)
@@ -41,7 +39,7 @@ Core C and Unix fundamentals.
 System programming and algorithmic projects.
 
 | Project             | Repository                                          | Description |
-|---------------------|-----------------------------------------------------|-------|
+|---------------------|-----------------------------------------------------|-------------|
 | libft               | https://github.com/TheForestGiraffe/libft            | Custom C standard library and utilities |
 | ft_printf           | https://github.com/TheForestGiraffe/ft_printf        | printf reimplementation (variadic functions, formatting) |
 | get_next_line       | https://github.com/TheForestGiraffe/get_next_line    | Line-by-line file descriptor input handling |
@@ -51,19 +49,35 @@ System programming and algorithmic projects.
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
 | Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
+| cub3d *(in progress)* | —                                                 | Raycasting-based 3D engine (MiniLibX), real-time rendering, textures, player movement, and scene parsing |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O,
 algorithmic problem solving, Unix process management, inter-process communication, graphics,
 and multithreaded synchronization.
 
+---
+
+## C++ Modules (Object-Oriented Programming)
+
+| Module             | Repository                                          | Description |
+|--------------------|-----------------------------------------------------|-------------|
+| cpp_00             | https://github.com/TheForestGiraffe/Cpp_00          | Introduction to C++: namespaces, classes, iostream, OOP, and transition from procedural C to object-oriented design |
+
+This module marks the transition from procedural C programming to object-oriented design in C++.
+
+Key concepts:
+- Encapsulation and class design
+- Static members and shared state (Account)
+- Stream-based I/O (`std::iostream`)
+- Safer abstractions compared to C-style programming
 
 ---
 
-## Exam & Practice
+## Exam Example (live coded)
 
 | Project             | Repository                                          | Description |
-|---------------------|-----------------------------------------------------|-------|
-| Exam Rank 3 Preparation        | https://github.com/TheForestGiraffe/Exam_3_Prep      | Timed problem solving under exam conditions |
+|---------------------|-----------------------------------------------------|-------------|
+| Exam Rank 3 Preparation | https://github.com/TheForestGiraffe/Exam_3_Prep | Timed problem solving under exam conditions |
 
 ---
 
@@ -77,7 +91,7 @@ The 42 Berlin curriculum also covers (or will cover):
 - Networking fundamentals
 - Secure coding practices
 - Linux/Unix, Bash
-- C++ fundamentals
+- C++
 - Front-end basics (HTML, CSS, JavaScript)
 - Database fundamentals (SQL)
 - Tools such as Vim, GNU Debugger, Valgrind, and AddressSanitizer

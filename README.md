@@ -5,7 +5,6 @@ from the Piscine to core system-level projects.
 
 It serves as a central reference for recruiters, collaborators, and reviewers.
 
----
 
 ## Profile
 
@@ -72,7 +71,6 @@ Key concepts:
 - Stream-based I/O (std::iostream)
 - Testing and CI integration (GitHub Actions)
 
----
 
 ## Current Status
 
@@ -81,6 +79,8 @@ Key concepts:
   - Projects in progress:
     - **C++ Module 02** - Ad-hoc polymorphism, operator overloading, and canonical class design in C++98.
     - **NetPractice** - Practical networking exercises covering IP addressing, subnetting, routing, and TCP/IP concepts.
+   
+---
 
 ## Exam Example (live coded)
 

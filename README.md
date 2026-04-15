@@ -49,7 +49,7 @@ System programming and algorithmic projects.
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
 | Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
-| cub3d *(in progress)* | —                                                 | Raycasting-based 3D engine (MiniLibX), real-time rendering, textures, player movement, and scene parsing |
+| cub3D               | https://github.com/TheForestGiraffe/cub3D             | Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D. With game map parsing, real-time rendering, textures, player movement, unit tests, and GitHub Actions CI pipelines. |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O,
 algorithmic problem solving, Unix process management, inter-process communication, graphics,

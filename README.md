@@ -61,15 +61,17 @@ and multithreaded synchronization.
 
 | Module             | Repository                                          | Description |
 |--------------------|-----------------------------------------------------|-------------|
-| cpp_00             | https://github.com/TheForestGiraffe/Cpp_00          | Introduction to C++: namespaces, classes, iostream, OOP, and transition from procedural C to object-oriented design |
+| Cpp_00             | https://github.com/TheForestGiraffe/Cpp_00          | Introduction to C++: namespaces, classes, iostream, OOP, and transition from procedural C to object-oriented design |
+| Cpp_01             | https://github.com/TheForestGiraffe/Cpp_01          | Memory management, pointers / references, and OOP with CI-tested exercises |
 
-This module marks the transition from procedural C programming to object-oriented design in C++.
+These modules mark the transition from low-level procedural C to structured, object-oriented design in C++.
 
 Key concepts:
-- Encapsulation and class design
-- Static members and shared state (Account)
-- Stream-based I/O (`std::iostream`)
-- Safer abstractions compared to C-style programming
+- Class design and encapsulation
+- Stack vs heap allocation (new / delete)
+- References vs pointers and ownership semantics
+- Stream-based I/O (std::iostream)
+- Testing and CI integration (GitHub Actions)
 
 ---
 

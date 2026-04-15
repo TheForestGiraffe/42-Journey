@@ -14,7 +14,7 @@ Location: Berlin, Germany
 
 ---
 
-## C/Bash Piscine (Foundations)
+## Piscine (Foundations)
 
 Core C and Unix fundamentals.
 

@@ -55,7 +55,6 @@ These projects cover core systems programming skills, including custom libraries
 algorithmic problem solving, Unix process management, inter-process communication, graphics,
 and multithreaded synchronization.
 
----
 
 ## C++ Modules (Object-Oriented Programming)
 
@@ -74,6 +73,14 @@ Key concepts:
 - Testing and CI integration (GitHub Actions)
 
 ---
+
+## Current Status
+
+- 42 C/Unix Piscine: Completed
+- Core Curriculum: **Rank 5 of 7**
+  - Projects in progress:
+    - **C++ Module 02** - Ad-hoc polymorphism, operator overloading, and canonical class design in C++98.
+    - **NetPractice** - Practical networking exercises covering IP addressing, subnetting, routing, and TCP/IP concepts.
 
 ## Exam Example (live coded)
 
@@ -119,28 +126,7 @@ https://42berlin.de/curriculum-42-berlin-pre-2026/
 
 ---
 
-## 📈 Learning Approach
-
-- Strong emphasis on fundamentals
-- Clean, readable, maintainable code
-- Continuous refactoring
-- Manual and automated testing
-- Performance awareness
-
----
-
-## Current Status
-
-- Piscine: Completed
-- Core Curriculum: **Level 4 of 7 almost complete**
-- Philosophers: Work in progress (last project in Level 4)
-- Continuous improvement ongoing
-
----
-
 ## Notes
 
 All repositories reflect my personal work and learning progression
 through the 42 curriculum and related self-study.
-
-Feedback and discussion are welcome.

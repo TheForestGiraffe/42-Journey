@@ -46,13 +46,13 @@ System programming and algorithmic projects.
 | push_swap           | https://github.com/TheForestGiraffe/push_swap        | Algorithmic sorting under strict operational constraints |
 | minitalk            | https://github.com/TheForestGiraffe/minitalk         | Inter-process communication via Unix signals (signal/sigaction APIs) |
 | fdf                 | https://github.com/TheForestGiraffe/fdf              | 3D wireframe renderer (manual projection, transformations, rasterization) |
-| minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals) |
+| minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals), incl. GitHub Actions CI pipelines |
 | Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
-| cub3D               | https://github.com/TheForestGiraffe/cub3D             | Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D. With game map parsing, real-time rendering, textures, player movement, unit tests, and GitHub Actions CI pipelines. |
+| cub3D               | https://github.com/TheForestGiraffe/cub3D            | Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D. With game map parsing, real-time rendering, textures, player movement, incl. unit tests and GitHub Actions CI pipelines |
+| NetPractice         | git@github.com:TheForestGiraffe/NetPractice.git      | Interactive networking challenges exploring IP addressing, subnet design, packet routing, and network troubleshooting |
+| Inception (WIP)     |                                                      | Multi-container infrastructure featuring NGINX, WordPress, and MariaDB, orchestrated with Docker Compose and managed through custom images |
 
-These projects cover core systems programming skills, including custom libraries, low-level I/O,
-algorithmic problem solving, Unix process management, inter-process communication, graphics,
-and multithreaded synchronization.
+These projects cover core systems programming skills, including custom libraries, low-level I/O, algorithmic problem solving, Unix process management, inter-process communication, TCP/IP networking fundamentals, graphics programming, and multithreaded synchronization.
 
 
 ## C++ Modules (Object-Oriented Programming)
@@ -61,24 +61,31 @@ and multithreaded synchronization.
 |--------------------|-----------------------------------------------------|-------------|
 | Cpp_00             | https://github.com/TheForestGiraffe/Cpp_00          | Introduction to C++: namespaces, classes, iostream, OOP, and transition from procedural C to object-oriented design |
 | Cpp_01             | https://github.com/TheForestGiraffe/Cpp_01          | Memory management, pointers / references, and OOP with CI-tested exercises |
+| Cpp_02             | https://github.com/TheForestGiraffe/Cpp_02          | Polymorphism, operator overloading, orthodox canonical form, and fixed-point arithmetic |
+| Cpp_03             | https://github.com/TheForestGiraffe/Cpp_03          | Inheritance, class hierarchies, and object-oriented design through combat-style simulations |
+| Cpp_04             | https://github.com/TheForestGiraffe/Cpp_04          | Subtype polymorphism, abstract classes, interfaces, deep copying, and dynamic binding |
+| Cpp_05 (WIP)       |                                                     | Exception handling, custom exception classes, inheritance |
 
 These modules mark the transition from low-level procedural C to structured, object-oriented design in C++.
 
 Key concepts:
-- Class design and encapsulation
-- Stack vs heap allocation (new / delete)
-- References vs pointers and ownership semantics
+- Class design, encapsulation, and data abstraction
+- Stack vs heap allocation and resource management (RAII)
+- References, pointers, and ownership semantics
 - Stream-based I/O (std::iostream)
-- Testing and CI integration (GitHub Actions)
-
+- Operator overloading and Orthodox Canonical Form
+- Inheritance, polymorphism, and dynamic binding
+- Abstract classes and interface-based design
+- Deep copying and object lifetime management
+- Exception handling and exception-safe programming
 
 ## Current Status
 
 - 42 C/Unix Piscine: Completed
-- Core Curriculum: **Rank 5 of 7**
+- Core Curriculum: **Rank 6 of 7**
   - Projects in progress:
-    - **C++ Module 02** - Ad-hoc polymorphism, operator overloading, and canonical class design in C++98.
-    - **NetPractice** - Practical networking exercises covering IP addressing, subnetting, routing, and TCP/IP concepts.
+    - **C++ Module 05** - Exception handling, custom exception classes, inheritance.
+    - **Inception** - Multi-container infrastructure featuring NGINX, WordPress, and MariaDB, orchestrated with Docker Compose and managed through custom images.
    
 ---
 
@@ -110,8 +117,7 @@ Transcendence (Final Project)
 - Implement a Single Page Application (SPA) featuring a real-time multiplayer game (Pong). 
 - Integrate a backend (NestJS/Django), database (Postgres), and Docker.
 
-Official curriculum overview:  
-https://42berlin.de/curriculum-42-berlin-pre-2026/
+https://42berlin.de
 
 ---
 

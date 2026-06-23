@@ -49,7 +49,7 @@ System programming and algorithmic projects.
 | minishell           | https://github.com/TheForestGiraffe/minishell        | Unix-like shell in C (processes, pipes, redirects, env, signals), incl. GitHub Actions CI pipelines |
 | Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
 | cub3D               | https://github.com/TheForestGiraffe/cub3D            | Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D. With game map parsing, real-time rendering, textures, player movement, incl. unit tests and GitHub Actions CI pipelines |
-| NetPractice         | git@github.com:TheForestGiraffe/NetPractice.git      | Interactive networking challenges exploring IP addressing, subnet design, packet routing, and network troubleshooting |
+| NetPractice         | https://github.com/TheForestGiraffe/NetPractice.git  | Interactive networking challenges exploring IP addressing, subnet design, packet routing, and network troubleshooting |
 | Inception (WIP)     |                                                      | Multi-container infrastructure featuring NGINX, WordPress, and MariaDB, orchestrated with Docker Compose and managed through custom images |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O, algorithmic problem solving, Unix process management, inter-process communication, TCP/IP networking fundamentals, graphics programming, and multithreaded synchronization.

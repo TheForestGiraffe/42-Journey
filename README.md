@@ -64,7 +64,8 @@ These projects cover core systems programming skills, including custom libraries
 | Cpp_02             | https://github.com/TheForestGiraffe/Cpp_02          | Polymorphism, operator overloading, orthodox canonical form, and fixed-point arithmetic |
 | Cpp_03             | https://github.com/TheForestGiraffe/Cpp_03          | Inheritance, class hierarchies, and object-oriented design through combat-style simulations |
 | Cpp_04             | https://github.com/TheForestGiraffe/Cpp_04          | Subtype polymorphism, abstract classes, interfaces, deep copying, and dynamic binding |
-| Cpp_05 (WIP)       |                                                     | Exception handling, custom exception classes, inheritance |
+| Cpp_05             | https://github.com/TheForestGiraffe/Cpp_05          | Exception handling, custom exception classes, inheritance |
+| Cpp_06 (WIP)       |                                                     | Type conversion, serialization, and runtime type identification (RTTI) through scalar conversion, pointer serialization, and dynamic casting exercises |
 
 These modules mark the transition from low-level procedural C to structured, object-oriented design in C++.
 

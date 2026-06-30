@@ -50,7 +50,6 @@ System programming and algorithmic projects.
 | Philosophers        | https://github.com/TheForestGiraffe/Philosophers     | Concurrency and synchronization with threads and mutexes |
 | cub3D               | https://github.com/TheForestGiraffe/cub3D            | Raycasting-based 3D game engine written in C, inspired by the original Wolfenstein 3D. With game map parsing, real-time rendering, textures, player movement, incl. unit tests and GitHub Actions CI pipelines |
 | NetPractice         | https://github.com/TheForestGiraffe/NetPractice.git  | Interactive networking challenges exploring IP addressing, subnet design, packet routing, and network troubleshooting |
-| Inception (WIP)     |                                                      | Multi-container infrastructure featuring NGINX, WordPress, and MariaDB, orchestrated with Docker Compose and managed through custom images |
 
 These projects cover core systems programming skills, including custom libraries, low-level I/O, algorithmic problem solving, Unix process management, inter-process communication, TCP/IP networking fundamentals, graphics programming, and multithreaded synchronization.
 
@@ -65,7 +64,8 @@ These projects cover core systems programming skills, including custom libraries
 | Cpp_03             | https://github.com/TheForestGiraffe/Cpp_03          | Inheritance, class hierarchies, and object-oriented design through combat-style simulations |
 | Cpp_04             | https://github.com/TheForestGiraffe/Cpp_04          | Subtype polymorphism, abstract classes, interfaces, deep copying, and dynamic binding |
 | Cpp_05             | https://github.com/TheForestGiraffe/Cpp_05          | Exception handling, custom exception classes, inheritance |
-| Cpp_06 (WIP)       |                                                     | Type conversion, serialization, and runtime type identification (RTTI) through scalar conversion, pointer serialization, and dynamic casting exercises |
+| Cpp_06             | https://github.com/TheForestGiraffe/Cpp_06          | Type conversion, serialization, and runtime type identification (RTTI) through scalar conversion, pointer serialization, and dynamic casting exercises |
+| Cpp_07 (WIP)       |                                                     | Generic programming through function templates, class templates, and type-safe reusable code in C++98 |
 
 These modules mark the transition from low-level procedural C to structured, object-oriented design in C++.
 
@@ -79,15 +79,18 @@ Key concepts:
 - Abstract classes and interface-based design
 - Deep copying and object lifetime management
 - Exception handling and exception-safe programming
+- Function templates and class templates
+- Generic programming and compile-time polymorphism
+- Template instantiation and header-only implementations
+- Type-safe reusable code and template-based container design
 
 ## Current Status
 
 - 42 C/Unix Piscine: Completed
 - Core Curriculum: **Rank 6 of 7**
   - Projects in progress:
-    - **C++ Module 05** - Exception handling, custom exception classes, inheritance.
-    - **Inception** - Multi-container infrastructure featuring NGINX, WordPress, and MariaDB, orchestrated with Docker Compose and managed through custom images.
-   
+    - **C++ Module 07**
+
 ---
 
 ## Exam Example (live coded)

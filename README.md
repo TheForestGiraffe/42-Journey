@@ -117,9 +117,7 @@ The 42 Berlin curriculum also covers (or will cover):
 - Tools such as Vim, GNU Debugger, Valgrind, and AddressSanitizer
 
 Transcendence (Final Project)
-- The final Core project.
-- Implement a Single Page Application (SPA) featuring a real-time multiplayer game (Pong). 
-- Integrate a backend (NestJS/Django), database (Postgres), and Docker.
+- The Full-Stack final Core project.
 
 https://42berlin.de
 

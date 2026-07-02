@@ -65,7 +65,8 @@ These projects cover core systems programming skills, including custom libraries
 | Cpp_04             | https://github.com/TheForestGiraffe/Cpp_04          | Subtype polymorphism, abstract classes, interfaces, deep copying, and dynamic binding |
 | Cpp_05             | https://github.com/TheForestGiraffe/Cpp_05          | Exception handling, custom exception classes, inheritance |
 | Cpp_06             | https://github.com/TheForestGiraffe/Cpp_06          | Type conversion, serialization, and runtime type identification (RTTI) through scalar conversion, pointer serialization, and dynamic casting exercises |
-| Cpp_07 (WIP)       | https://github.com/TheForestGiraffe/Cpp_07          | Generic programming through function templates, class templates, and type-safe reusable code in C++98 |
+| Cpp_07             | https://github.com/TheForestGiraffe/Cpp_07          | Generic programming through function templates, class templates, and type-safe reusable code in C++98 |
+| Cpp_08 (WIP)       |                                                     | Standard Template Library (STL) containers, iterators, and algorithms through practical implementations |
 
 These modules mark the transition from low-level procedural C to structured, object-oriented design in C++.
 
@@ -83,13 +84,17 @@ Key concepts:
 - Generic programming and compile-time polymorphism
 - Template instantiation and header-only implementations
 - Type-safe reusable code and template-based container design
+- STL containers, iterators, and standard algorithms
+- Iterator-based programming and generic algorithm design
+- Efficient use of standard library data structures
+- Algorithm complexity and performance considerations
 
 ## Current Status
 
 - 42 C/Unix Piscine: Completed
 - Core Curriculum: **Rank 6 of 7**
   - Projects in progress:
-    - **C++ Module 07**
+    - **C++ Module 08**
 
 ---
 
